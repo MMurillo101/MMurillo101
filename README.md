@@ -1,2 +1,2 @@
-<title>wp_pentest<title>
+wp_pentest
 assignment  upload for pentesting wp
